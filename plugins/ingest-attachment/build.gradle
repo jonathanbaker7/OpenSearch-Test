@@ -61,7 +61,7 @@ dependencies {
   api "org.slf4j:slf4j-api:${versions.slf4j}"
 
   // character set detection
-  api 'com.googlecode.juniversalchardet:juniversalchardet:1.0.3'
+  api 'com.googlecode.juniversalchardet:juniversalchardet:2.4.0'
 
   // external parser libraries
   // HTML
